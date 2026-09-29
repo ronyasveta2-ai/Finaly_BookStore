@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Finaly_BookStore/Finaly_BookStore.csproj" />
+  <Project Path="Library_BookStore/Library_BookStore.csproj" />
+</Solution>
